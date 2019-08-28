@@ -33,7 +33,7 @@
 		"ping": "^0.2.2",
 		"request": "^2.88.0",
 		"systeminformation": "^4.14.4",
-		"uuid": "^3.3.2",
+		"uuid": "^3.3.3",
 		"winston": "^3.2.1",
 		"winston-daily-rotate-file": "^3.10.0",
 		"yargs": "^13.3.0"
